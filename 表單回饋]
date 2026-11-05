@@ -1,5 +1,5 @@
 I have created a Formspree form with the endpoint:
-https://formspree.io/f/taiwanese10103@gmailcom
+https://formspree.io/f/taiwanese10103@gmail.com
 
 What follows are a set of integration guides for different environments: Basic HTML, Vanilla JS (Ajax), and React. Please pick the guide that best matches my website and hosting environment. The guides include simple examples for how to integrate with Formspree but you should use form code tailored to my needs.
 
